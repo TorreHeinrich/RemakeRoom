@@ -1,0 +1,6 @@
+{
+  "name": "Raumstudio",
+  "description": "Minimalistischer KI-Einrichtungsplaner für reale Zimmerfotos, iterative Entwürfe und günstige Einkaufslisten.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
